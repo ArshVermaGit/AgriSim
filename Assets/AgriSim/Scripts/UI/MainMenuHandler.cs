@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     public class MainMenuHandler : MonoBehaviour
     {

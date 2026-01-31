@@ -4,7 +4,7 @@ using Template2DCommon;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Handle the WarehouseUI that handle storing/retrieving object.

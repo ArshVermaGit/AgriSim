@@ -157,7 +157,7 @@ TextureImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Lamps/LampAndLantern/Sprites/Chain/Sprite_Chain_normal.png
+  assetPath: Assets/AgriSim/Art/Environment/Lamps/LampAndLantern/Sprites/Chain/Sprite_Chain_normal.png
   uploadId: 722366

@@ -3,9 +3,9 @@ guid: 63a07436bfe2d8843aaa8e4cfd0eecb1
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Soil/Sprites/Sprite_Tiles_Soil.png
+  assetPath: Assets/AgriSim/Art/Tiles/Soil/Sprites/Sprite_Tiles_Soil.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

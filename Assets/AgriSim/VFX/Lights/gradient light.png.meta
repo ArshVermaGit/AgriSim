@@ -3,9 +3,9 @@ guid: 5e0f980faa2b69148be1e74206e5028d
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Lights/gradient light.png
+  assetPath: Assets/AgriSim/VFX/Lights/gradient light.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

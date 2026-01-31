@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     public class PlayerController : MonoBehaviour
     {

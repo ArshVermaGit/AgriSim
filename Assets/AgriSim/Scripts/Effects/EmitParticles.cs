@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     public class EmitParticles : MonoBehaviour
     {

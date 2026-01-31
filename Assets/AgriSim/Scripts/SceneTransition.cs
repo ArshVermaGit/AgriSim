@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     [RequireComponent(typeof(Collider2D))]
     public class SceneTransition : MonoBehaviour

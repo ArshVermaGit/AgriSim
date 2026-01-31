@@ -4,7 +4,7 @@ using UnityEngine.U2D;
 using UnityEngine.Scripting.APIUpdating;
 using UnityEngine.Rendering.Universal;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     public class LightFlicker : MonoBehaviour
     {

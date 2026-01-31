@@ -3,9 +3,9 @@ guid: 16865071490cfeb418298e4df6c43675
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/WaterLilly/Sprites/Sprite_WaterLilly_flower.png
+  assetPath: Assets/AgriSim/Art/Environment/WaterLilly/Sprites/Sprite_WaterLilly_flower.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

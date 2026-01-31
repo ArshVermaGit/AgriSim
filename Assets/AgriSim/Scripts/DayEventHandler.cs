@@ -5,12 +5,12 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UIElements;
 #if UNITY_EDITOR
-using HappyHarvest;
+using AgriSim;
 using UnityEditor;
 using UnityEditor.UIElements;
 #endif
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Allow to define events that will be triggered at given time in the day. An event have a start and end time which

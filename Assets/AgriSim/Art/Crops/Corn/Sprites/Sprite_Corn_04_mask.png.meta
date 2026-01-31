@@ -3,9 +3,9 @@ guid: e7772fd46fe07ad4a988ecfae5ae06d3
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Crops/Corn/Sprites/Sprite_Corn_04_mask.png
+  assetPath: Assets/AgriSim/Art/Crops/Corn/Sprites/Sprite_Corn_04_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

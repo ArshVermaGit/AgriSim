@@ -3,9 +3,9 @@ guid: c10c86468fdd6b444aff36ddec3319b3
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Crops/Carrot/Sprites/Sprite_Carrot_01_mask.png
+  assetPath: Assets/AgriSim/Art/Crops/Carrot/Sprites/Sprite_Carrot_01_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

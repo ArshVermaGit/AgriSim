@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Handle blending between a Day and Night ambience audio clip

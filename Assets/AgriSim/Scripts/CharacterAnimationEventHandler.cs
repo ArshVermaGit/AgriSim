@@ -1,10 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using HappyHarvest;
+using AgriSim;
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// This allows to lock and unlock controlling the Player Controller. This is used by Animation Event to stop moving

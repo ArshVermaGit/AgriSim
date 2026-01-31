@@ -3,9 +3,9 @@ guid: dfe68871e6ec04238b78d286ed7be87b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/UI/Sprite_clock_icon.png
+  assetPath: Assets/AgriSim/Art/UI/Sprite_clock_icon.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

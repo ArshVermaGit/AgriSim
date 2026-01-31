@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// The GameManager is the entry point to all the game system. It's execution order is set very low to make sure

@@ -12,7 +12,7 @@ ScriptedImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss
+  assetPath: Assets/AgriSim/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss
   uploadId: 722366

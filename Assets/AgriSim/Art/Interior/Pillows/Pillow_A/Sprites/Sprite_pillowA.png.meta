@@ -3,9 +3,9 @@ guid: 357b92226e41aff428e191e16c0db775
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Pillows/Pillow_A/Sprites/Sprite_pillowA.png
+  assetPath: Assets/AgriSim/Art/Interior/Pillows/Pillow_A/Sprites/Sprite_pillowA.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

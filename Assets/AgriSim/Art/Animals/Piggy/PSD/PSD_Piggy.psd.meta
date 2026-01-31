@@ -8,9 +8,9 @@ importerOverride:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Animals/Piggy/PSD/PSD_Piggy.psd
+  assetPath: Assets/AgriSim/Art/Animals/Piggy/PSD/PSD_Piggy.psd
   uploadId: 722366
 ScriptedImporter:
   internalIDToNameTable: []

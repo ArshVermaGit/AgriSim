@@ -3,9 +3,9 @@ guid: f3a9a24f89ff22847af1399421671613
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tools/Hoe/Sprites/hoe_back_up.png
+  assetPath: Assets/AgriSim/Art/Tools/Hoe/Sprites/hoe_back_up.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

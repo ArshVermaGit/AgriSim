@@ -3,9 +3,9 @@ guid: 8db471d60ff290c4e92b07d451fd4753
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Water/WaterLines2.png
+  assetPath: Assets/AgriSim/VFX/Water/WaterLines2.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

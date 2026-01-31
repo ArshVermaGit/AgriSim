@@ -3,9 +3,9 @@ guid: f821bd76d5361a54da7171a2121821c7
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Rocks/RocksMedium/Sprites/Sprite_RockMedium.png
+  assetPath: Assets/AgriSim/Art/Environment/Rocks/RocksMedium/Sprites/Sprite_RockMedium.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

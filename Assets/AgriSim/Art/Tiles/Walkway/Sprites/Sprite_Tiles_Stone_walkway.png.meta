@@ -3,9 +3,9 @@ guid: 4d79f333fa64f324884118db2c0d5365
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Walkway/Sprites/Sprite_Tiles_Stone_walkway.png
+  assetPath: Assets/AgriSim/Art/Tiles/Walkway/Sprites/Sprite_Tiles_Stone_walkway.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

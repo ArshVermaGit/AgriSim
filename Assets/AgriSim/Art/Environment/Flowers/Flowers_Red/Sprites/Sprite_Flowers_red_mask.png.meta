@@ -3,9 +3,9 @@ guid: 0c532a8b785ad3342be9ca2bdeca800f
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Flowers/Flowers_Red/Sprites/Sprite_Flowers_red_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/Flowers/Flowers_Red/Sprites/Sprite_Flowers_red_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

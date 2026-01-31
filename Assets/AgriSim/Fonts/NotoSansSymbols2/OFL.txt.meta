@@ -8,7 +8,7 @@ TextScriptImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Fonts/NotoSansSymbols2/OFL.txt
+  assetPath: Assets/AgriSim/Fonts/NotoSansSymbols2/OFL.txt
   uploadId: 722366

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     public abstract class Item : ScriptableObject, IDatabaseEntry
     {

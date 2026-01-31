@@ -3,9 +3,9 @@ guid: aabcfdfbb610e5d49a789747055ce822
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Log/LogVertical/log_vertical.png
+  assetPath: Assets/AgriSim/Art/Environment/Log/LogVertical/log_vertical.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

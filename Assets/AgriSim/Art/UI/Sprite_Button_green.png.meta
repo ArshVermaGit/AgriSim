@@ -3,9 +3,9 @@ guid: 9a4116da924db7c449f25e2a457972bc
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/UI/Sprite_Button_green.png
+  assetPath: Assets/AgriSim/Art/UI/Sprite_Button_green.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

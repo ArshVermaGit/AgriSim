@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Add this component to the tilemap that is defining the surface the player is walking on. This is used by the

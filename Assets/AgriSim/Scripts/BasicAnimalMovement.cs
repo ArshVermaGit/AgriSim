@@ -4,7 +4,7 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Simply make a GameObject "roam" inside a given collider 2D bound

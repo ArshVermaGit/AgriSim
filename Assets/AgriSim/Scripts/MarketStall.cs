@@ -1,4 +1,4 @@
-namespace HappyHarvest
+namespace AgriSim
 {
     public class MarketStall : InteractiveObject
     {

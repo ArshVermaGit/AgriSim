@@ -3,9 +3,9 @@ guid: e62e85a2605f5044aa05771c6aa3a53b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/UI/Sprite_coin_icon.png
+  assetPath: Assets/AgriSim/Art/UI/Sprite_coin_icon.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

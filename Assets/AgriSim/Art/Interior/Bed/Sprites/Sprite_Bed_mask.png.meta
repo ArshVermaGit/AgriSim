@@ -3,9 +3,9 @@ guid: 17d3d5ad585e6874bbf20b7eec422865
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Bed/Sprites/Sprite_Bed_mask.png
+  assetPath: Assets/AgriSim/Art/Interior/Bed/Sprites/Sprite_Bed_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

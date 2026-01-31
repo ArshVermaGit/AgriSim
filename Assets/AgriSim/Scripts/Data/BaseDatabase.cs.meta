@@ -4,7 +4,7 @@ timeCreated: 1674043893
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Scripts/Data/BaseDatabase.cs
+  assetPath: Assets/AgriSim/Scripts/Data/BaseDatabase.cs
   uploadId: 722366

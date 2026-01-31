@@ -3,9 +3,9 @@ guid: 8f5b527d3cfc9354db6d5307990d7e54
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Grass/Grass_Clump_01/Sprites/Sprite_Grass_clump01_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/Grass/Grass_Clump_01/Sprites/Sprite_Grass_clump01_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

@@ -3,9 +3,9 @@ guid: f5bbfff815329b14ba739da48b2b901c
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Plant/Sprites/Sprite_Plant.png
+  assetPath: Assets/AgriSim/Art/Interior/Plant/Sprites/Sprite_Plant.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

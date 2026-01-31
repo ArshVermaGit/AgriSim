@@ -3,9 +3,9 @@ guid: cb9db054ab6fd124b9e33fe48db678f5
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/UI/Sprite_Circle.png
+  assetPath: Assets/AgriSim/Art/UI/Sprite_Circle.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

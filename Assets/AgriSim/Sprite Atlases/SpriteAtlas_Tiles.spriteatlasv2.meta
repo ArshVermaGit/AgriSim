@@ -43,7 +43,7 @@ SpriteAtlasImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Sprite Atlases/SpriteAtlas_Tiles.spriteatlasv2
+  assetPath: Assets/AgriSim/Sprite Atlases/SpriteAtlas_Tiles.spriteatlasv2
   uploadId: 722366

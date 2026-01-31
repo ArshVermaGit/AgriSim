@@ -3,9 +3,9 @@ guid: e41c74a90eb0dec4690da9eec1ca5409
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Lights/shadow2.png
+  assetPath: Assets/AgriSim/VFX/Lights/shadow2.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

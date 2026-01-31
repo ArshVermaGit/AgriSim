@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     [CreateAssetMenu(menuName = "2D Farming/Items/Basket")]
     public class Basket : Item

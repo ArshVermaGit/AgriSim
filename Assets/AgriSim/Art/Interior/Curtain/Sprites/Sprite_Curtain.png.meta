@@ -3,9 +3,9 @@ guid: da4d6d6de0cdf004187e06feb788fe5b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Curtain/Sprites/Sprite_Curtain.png
+  assetPath: Assets/AgriSim/Art/Interior/Curtain/Sprites/Sprite_Curtain.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

@@ -3,9 +3,9 @@ guid: 454de595d9e7fb648b5e7e8ff298fe3b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Rocks/RocksBig/Sprites/Sprite_RocksBig_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/Rocks/RocksBig/Sprites/Sprite_RocksBig_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

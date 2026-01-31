@@ -11,7 +11,7 @@ ScriptedImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/ShaderGraphs/ShaderGraph_MoveVertices.shadergraph
+  assetPath: Assets/AgriSim/ShaderGraphs/ShaderGraph_MoveVertices.shadergraph
   uploadId: 722366

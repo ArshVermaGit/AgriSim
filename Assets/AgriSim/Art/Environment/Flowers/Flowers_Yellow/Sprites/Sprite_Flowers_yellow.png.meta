@@ -3,9 +3,9 @@ guid: 450c13aff2063fc41a7bd41d529213a8
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Flowers/Flowers_Yellow/Sprites/Sprite_Flowers_yellow.png
+  assetPath: Assets/AgriSim/Art/Environment/Flowers/Flowers_Yellow/Sprites/Sprite_Flowers_yellow.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

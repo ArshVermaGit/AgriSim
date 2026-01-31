@@ -1,12 +1,12 @@
 :root {
-    -unity-font: url('project://database/Assets/HappyHarvest/Fonts/CurseCasual/Curse%20Casual.ttf');
+    -unity-font: url('project://database/Assets/AgriSim/Fonts/CurseCasual/Curse%20Casual.ttf');
     -unity-font-definition: initial;
     font-size: 20px;
     text-shadow: 0 18px 0 rgba(0, 0, 0, 0);
     --main-color: rgb(0, 127, 226);
     --main-radius: 20px;
     --top-block-height: 95px;
-    cursor: url('project://database/Assets/HappyHarvest/Art/UI/Texture_Cursor.png');
+    cursor: url('project://database/Assets/AgriSim/Art/UI/Texture_Cursor.png');
 }
 
 .game-button {
@@ -22,7 +22,7 @@
 
 .game-button:hover {
     border-color: white;
-    cursor: url('project://database/Assets/HappyHarvest/Art/UI/Texture_CursorHand.png');
+    cursor: url('project://database/Assets/AgriSim/Art/UI/Texture_CursorHand.png');
     transition-property: scale;
     transition-duration: 0.3s;
     scale: 1.2 1.2;
@@ -72,7 +72,7 @@
 }
 
 #WeatherBlock > Label {
-    -unity-font: url('/Assets/HappyHarvest/Fonts/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf');
+    -unity-font: url('/Assets/AgriSim/Fonts/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf');
     -unity-font-definition: initial;
     flex-grow: 1;
     font-size: 35px;
@@ -94,13 +94,13 @@
 #InventoryEntry {
     margin: 5px;
     -unity-background-image-tint-color: rgba(255, 255, 255, 0.31);
-    background-image: url('project://database/Assets/HappyHarvest/Art/UI/Sprite_Target.png#Sprite_Target');
+    background-image: url('project://database/Assets/AgriSim/Art/UI/Sprite_Target.png#Sprite_Target');
     width: 297px;
 }
 
 #InventoryEntry.equipped {
     -unity-background-image-tint-color: rgb(255, 255, 255);
-    background-image: url('project://database/Assets/HappyHarvest/Art/UI/Sprite_Target_selected.png#Sprite_Target_selected');
+    background-image: url('project://database/Assets/AgriSim/Art/UI/Sprite_Target_selected.png#Sprite_Target_selected');
 }
 
 #Item {
@@ -113,7 +113,7 @@
 }
 
 #ItemCount {
-    background-image: url('project://database/Assets/HappyHarvest/Art/UI/Sprite_Circle.png#Sprite_Circle');
+    background-image: url('project://database/Assets/AgriSim/Art/UI/Sprite_Circle.png#Sprite_Circle');
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
     border-top-right-radius: 50%;
@@ -137,7 +137,7 @@
 }
 
 #Previous {
-    background-image: url('project://database/Assets/HappyHarvest/Art/UI/Sprite_keyboard_key.png#Sprite_keyboard_key');
+    background-image: url('project://database/Assets/AgriSim/Art/UI/Sprite_keyboard_key.png#Sprite_keyboard_key');
     opacity: 1;
     align-items: auto;
     padding-bottom: 10px;

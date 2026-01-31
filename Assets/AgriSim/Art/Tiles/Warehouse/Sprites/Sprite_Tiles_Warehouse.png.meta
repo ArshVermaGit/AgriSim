@@ -3,9 +3,9 @@ guid: 772ffc1de1e64b94eb1b48c2eda3c7a3
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Warehouse/Sprites/Sprite_Tiles_Warehouse.png
+  assetPath: Assets/AgriSim/Art/Tiles/Warehouse/Sprites/Sprite_Tiles_Warehouse.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

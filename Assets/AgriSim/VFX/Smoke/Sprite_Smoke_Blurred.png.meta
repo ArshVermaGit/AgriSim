@@ -3,9 +3,9 @@ guid: d8b955cd0f41c48f2ad5a65d263f662e
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Smoke/Sprite_Smoke_Blurred.png
+  assetPath: Assets/AgriSim/VFX/Smoke/Sprite_Smoke_Blurred.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

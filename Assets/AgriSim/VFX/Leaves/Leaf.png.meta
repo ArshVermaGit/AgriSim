@@ -3,9 +3,9 @@ guid: 515e45b153e7fa04c86d1c3b5859603b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Leaves/Leaf.png
+  assetPath: Assets/AgriSim/VFX/Leaves/Leaf.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

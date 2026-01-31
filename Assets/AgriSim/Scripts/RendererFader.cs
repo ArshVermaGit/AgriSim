@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.Serialization;
 using UnityEngine.Tilemaps;
 
-namespace HappyHarvest
+namespace AgriSim
 {
 	public class RendererFader : MonoBehaviour
 	{

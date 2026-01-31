@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     [RequireComponent(typeof(Collider2D))]
     public class TriggerEvent : MonoBehaviour

@@ -3,9 +3,9 @@ guid: aa66dc0df0298344f9602942b665938b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Lamps/HouseLamp/Sprites/Sprite_HouseLamp.png
+  assetPath: Assets/AgriSim/Art/Environment/Lamps/HouseLamp/Sprites/Sprite_HouseLamp.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

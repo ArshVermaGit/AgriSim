@@ -3,9 +3,9 @@ guid: 766d1de694d1c5d4689a03f8ff725194
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Sofa/Sprites/Sprite_Sofa.png
+  assetPath: Assets/AgriSim/Art/Interior/Sofa/Sprites/Sprite_Sofa.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

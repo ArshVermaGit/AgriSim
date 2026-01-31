@@ -5,7 +5,7 @@ using UnityEngine.Tilemaps;
 using UnityEngine.VFX;
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Manage everything related to the terrain where crop are planted. Hold the content of cells with the states of

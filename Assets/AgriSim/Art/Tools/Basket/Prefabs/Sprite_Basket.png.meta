@@ -3,9 +3,9 @@ guid: c55833a6eaadae04fa1821f40a52b88c
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tools/Basket/Prefabs/Sprite_Basket.png
+  assetPath: Assets/AgriSim/Art/Tools/Basket/Prefabs/Sprite_Basket.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

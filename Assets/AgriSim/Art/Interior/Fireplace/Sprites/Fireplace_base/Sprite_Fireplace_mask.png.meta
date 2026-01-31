@@ -3,9 +3,9 @@ guid: 00de7695971d4a6428809f215165a35f
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Fireplace/Sprites/Fireplace_base/Sprite_Fireplace_mask.png
+  assetPath: Assets/AgriSim/Art/Interior/Fireplace/Sprites/Fireplace_base/Sprite_Fireplace_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

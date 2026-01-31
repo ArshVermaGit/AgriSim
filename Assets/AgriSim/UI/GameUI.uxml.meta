@@ -11,7 +11,7 @@ ScriptedImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/UI/GameUI.uxml
+  assetPath: Assets/AgriSim/UI/GameUI.uxml
   uploadId: 722366

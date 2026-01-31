@@ -3,9 +3,9 @@ guid: 135b3f3fe8e9e104bb5718886d3abdb8
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Barrel/Sprites/Sprite_Barrel_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/Barrel/Sprites/Sprite_Barrel_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

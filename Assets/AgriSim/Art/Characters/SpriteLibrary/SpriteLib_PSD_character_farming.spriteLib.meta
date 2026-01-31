@@ -11,7 +11,7 @@ ScriptedImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Characters/SpriteLibrary/SpriteLib_PSD_character_farming.spriteLib
+  assetPath: Assets/AgriSim/Art/Characters/SpriteLibrary/SpriteLib_PSD_character_farming.spriteLib
   uploadId: 722366

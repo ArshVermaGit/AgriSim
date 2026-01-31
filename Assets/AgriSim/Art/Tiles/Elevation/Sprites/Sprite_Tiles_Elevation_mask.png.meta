@@ -3,9 +3,9 @@ guid: 6f44c8c1872867b44a8c5e2471482280
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Elevation/Sprites/Sprite_Tiles_Elevation_mask.png
+  assetPath: Assets/AgriSim/Art/Tiles/Elevation/Sprites/Sprite_Tiles_Elevation_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

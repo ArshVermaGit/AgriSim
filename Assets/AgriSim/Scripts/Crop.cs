@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityEngine.VFX;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Class used to designated a crop on the map. Store all the stage of growth, time to grow etc.

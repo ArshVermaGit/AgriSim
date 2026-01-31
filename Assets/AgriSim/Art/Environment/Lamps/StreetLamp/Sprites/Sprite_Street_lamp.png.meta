@@ -3,9 +3,9 @@ guid: 421839523bd44fe4a86f29484f502a03
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Lamps/StreetLamp/Sprites/Sprite_Street_lamp.png
+  assetPath: Assets/AgriSim/Art/Environment/Lamps/StreetLamp/Sprites/Sprite_Street_lamp.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

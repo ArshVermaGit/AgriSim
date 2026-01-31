@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// This just load the next scene. This is used by the Loaded scene that just ensure that the GameManager is

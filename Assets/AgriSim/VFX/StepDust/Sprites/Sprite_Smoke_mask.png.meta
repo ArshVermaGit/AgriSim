@@ -3,9 +3,9 @@ guid: 40ec0d092b95fbf48bcffade3a37f112
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/StepDust/Sprites/Sprite_Smoke_mask.png
+  assetPath: Assets/AgriSim/VFX/StepDust/Sprites/Sprite_Smoke_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

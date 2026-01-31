@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Cinemachine;
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Add this to the CinemachineVirtualCamera in your scene that is the main gameplay camera. When a scene load, the

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Helper class for the demo purpose. Will auto plant the given crops at the given growth stage in the given cell.

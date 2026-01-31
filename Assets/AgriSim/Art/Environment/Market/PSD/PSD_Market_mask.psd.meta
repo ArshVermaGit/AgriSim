@@ -8,9 +8,9 @@ importerOverride:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Market/PSD/PSD_Market_mask.psd
+  assetPath: Assets/AgriSim/Art/Environment/Market/PSD/PSD_Market_mask.psd
   uploadId: 722366
 ScriptedImporter:
   internalIDToNameTable: []

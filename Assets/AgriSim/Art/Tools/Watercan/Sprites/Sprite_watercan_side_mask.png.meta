@@ -3,9 +3,9 @@ guid: 281b61bdf2e6d7248b313c3deaed5112
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tools/Watercan/Sprites/Sprite_watercan_side_mask.png
+  assetPath: Assets/AgriSim/Art/Tools/Watercan/Sprites/Sprite_watercan_side_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

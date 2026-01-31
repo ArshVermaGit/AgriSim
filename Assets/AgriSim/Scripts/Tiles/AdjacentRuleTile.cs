@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// This special tile add a third rule : adjacent tiles, so you can match rules with other tile than this one.

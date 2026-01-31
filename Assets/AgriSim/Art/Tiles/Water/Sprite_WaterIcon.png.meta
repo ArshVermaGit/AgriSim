@@ -3,9 +3,9 @@ guid: 10ebf41f4b6004845b33e12a41c01502
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Water/Sprite_WaterIcon.png
+  assetPath: Assets/AgriSim/Art/Tiles/Water/Sprite_WaterIcon.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

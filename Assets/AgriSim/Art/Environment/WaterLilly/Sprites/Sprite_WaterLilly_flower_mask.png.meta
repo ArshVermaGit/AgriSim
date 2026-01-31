@@ -3,9 +3,9 @@ guid: a51d1dc807e97574b8dd5095007a770e
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/WaterLilly/Sprites/Sprite_WaterLilly_flower_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/WaterLilly/Sprites/Sprite_WaterLilly_flower_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

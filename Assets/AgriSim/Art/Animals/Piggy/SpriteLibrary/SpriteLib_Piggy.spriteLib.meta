@@ -11,7 +11,7 @@ ScriptedImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Animals/Piggy/SpriteLibrary/SpriteLib_Piggy.spriteLib
+  assetPath: Assets/AgriSim/Art/Animals/Piggy/SpriteLibrary/SpriteLib_Piggy.spriteLib
   uploadId: 722366

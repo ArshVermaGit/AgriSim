@@ -1,13 +1,13 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using HappyHarvest;
+using AgriSim;
 using Template2DCommon;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using Random = UnityEngine.Random;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Handle playing a random step sound during walk animation. This need to be on the same GameObject of the player

@@ -3,9 +3,9 @@ guid: 19c6f05575d117643bab6333c35c4855
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Crops/Carrot/Sprites/Sprite_Carrot_seedbag.png
+  assetPath: Assets/AgriSim/Art/Crops/Carrot/Sprites/Sprite_Carrot_seedbag.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

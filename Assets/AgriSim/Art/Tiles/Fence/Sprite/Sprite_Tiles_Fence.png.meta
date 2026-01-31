@@ -3,9 +3,9 @@ guid: df8896220c78886439cc08247108997d
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Fence/Sprite/Sprite_Tiles_Fence.png
+  assetPath: Assets/AgriSim/Art/Tiles/Fence/Sprite/Sprite_Tiles_Fence.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

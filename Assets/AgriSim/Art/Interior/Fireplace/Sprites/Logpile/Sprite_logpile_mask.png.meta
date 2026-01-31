@@ -3,9 +3,9 @@ guid: b622a619d37eb654d9f9eb01bcd84653
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Fireplace/Sprites/Logpile/Sprite_logpile_mask.png
+  assetPath: Assets/AgriSim/Art/Interior/Fireplace/Sprites/Logpile/Sprite_logpile_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

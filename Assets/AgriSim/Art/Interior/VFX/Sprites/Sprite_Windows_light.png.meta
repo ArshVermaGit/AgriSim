@@ -3,9 +3,9 @@ guid: 91a273637b874ef4e9eec74fa2ec3612
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/VFX/Sprites/Sprite_Windows_light.png
+  assetPath: Assets/AgriSim/Art/Interior/VFX/Sprites/Sprite_Windows_light.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

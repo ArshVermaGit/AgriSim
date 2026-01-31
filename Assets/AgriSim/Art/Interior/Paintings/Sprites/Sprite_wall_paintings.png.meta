@@ -3,9 +3,9 @@ guid: 85cda8dfbbce94a4c99a94be3be1e7f7
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Paintings/Sprites/Sprite_wall_paintings.png
+  assetPath: Assets/AgriSim/Art/Interior/Paintings/Sprites/Sprite_wall_paintings.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

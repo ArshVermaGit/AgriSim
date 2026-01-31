@@ -3,9 +3,9 @@ guid: 70d002b598c76764b9f47ce66e8faba9
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Water/Texture_04.png
+  assetPath: Assets/AgriSim/VFX/Water/Texture_04.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

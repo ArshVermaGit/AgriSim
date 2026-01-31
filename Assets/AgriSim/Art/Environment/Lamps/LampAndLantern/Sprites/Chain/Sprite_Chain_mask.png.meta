@@ -3,9 +3,9 @@ guid: 89a93a499901ecf4683599cc5faf261a
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Lamps/LampAndLantern/Sprites/Chain/Sprite_Chain_mask.png
+  assetPath: Assets/AgriSim/Art/Environment/Lamps/LampAndLantern/Sprites/Chain/Sprite_Chain_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

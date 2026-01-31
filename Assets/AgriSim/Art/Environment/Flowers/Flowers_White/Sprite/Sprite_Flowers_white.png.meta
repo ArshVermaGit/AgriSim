@@ -3,9 +3,9 @@ guid: f2b488816c86caa40befdd0d50809584
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Flowers/Flowers_White/Sprite/Sprite_Flowers_white.png
+  assetPath: Assets/AgriSim/Art/Environment/Flowers/Flowers_White/Sprite/Sprite_Flowers_white.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

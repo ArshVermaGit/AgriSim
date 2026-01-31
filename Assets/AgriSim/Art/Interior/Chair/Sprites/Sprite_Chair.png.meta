@@ -3,9 +3,9 @@ guid: 63bb9c45ddde3ef44b4758cb8e556fd9
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Chair/Sprites/Sprite_Chair.png
+  assetPath: Assets/AgriSim/Art/Interior/Chair/Sprites/Sprite_Chair.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

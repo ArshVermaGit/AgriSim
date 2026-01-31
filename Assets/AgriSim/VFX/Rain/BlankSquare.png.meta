@@ -3,9 +3,9 @@ guid: d3c6cc9c36390462099e14cb5c6b9c23
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Rain/BlankSquare.png
+  assetPath: Assets/AgriSim/VFX/Rain/BlankSquare.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable:

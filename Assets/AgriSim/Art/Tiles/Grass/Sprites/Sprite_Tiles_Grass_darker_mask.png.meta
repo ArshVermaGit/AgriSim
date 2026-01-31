@@ -3,9 +3,9 @@ guid: 41e115541a025064abb21550032938c8
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Grass/Sprites/Sprite_Tiles_Grass_darker_mask.png
+  assetPath: Assets/AgriSim/Art/Tiles/Grass/Sprites/Sprite_Tiles_Grass_darker_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

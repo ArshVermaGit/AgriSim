@@ -6,7 +6,7 @@ using UnityEditor;
 #endif
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     [DefaultExecutionOrder(1000)]
     public class SpawnPoint : MonoBehaviour

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Base class for object that can be clicked on in the scene. InteractWith will 

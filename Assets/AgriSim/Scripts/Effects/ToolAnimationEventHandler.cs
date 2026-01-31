@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.VFX;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// The tool animation can call the different events at the right frame to trigger the set VFX

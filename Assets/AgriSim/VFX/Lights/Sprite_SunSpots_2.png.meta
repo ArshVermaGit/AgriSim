@@ -3,9 +3,9 @@ guid: 80fac696baf30ac419a019b6c517143b
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Lights/Sprite_SunSpots_2.png
+  assetPath: Assets/AgriSim/VFX/Lights/Sprite_SunSpots_2.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

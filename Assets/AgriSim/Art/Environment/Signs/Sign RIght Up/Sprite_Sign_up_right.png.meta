@@ -3,9 +3,9 @@ guid: c04ce7fbf6ddad640b809ac0daa05515
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Signs/Sign RIght Up/Sprite_Sign_up_right.png
+  assetPath: Assets/AgriSim/Art/Environment/Signs/Sign RIght Up/Sprite_Sign_up_right.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

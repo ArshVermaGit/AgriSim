@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Add this to any object that should be enabled only for a specific set of weathers (e.g. VFX of dripping water

@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 using Cursor = UnityEngine.Cursor;
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Handle everything related to the main gameplay UI. Will retrieve all the UI Element and contains various static

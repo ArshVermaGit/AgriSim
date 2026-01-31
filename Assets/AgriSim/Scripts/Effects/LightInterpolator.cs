@@ -11,7 +11,7 @@ using UnityEditor.UIElements;
 #endif
 
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// This class will blend between multiple Light2D shaped across the day. This allow to have moving Shadow, used for

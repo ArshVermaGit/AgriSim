@@ -3,9 +3,9 @@ guid: b9c31a4d2ba9d7949bfeead1b44637b6
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Tiles/Pinetrees/Sprites/Sprite_Tiles_Pinetree_BG_mask.png
+  assetPath: Assets/AgriSim/Art/Tiles/Pinetrees/Sprites/Sprite_Tiles_Pinetree_BG_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

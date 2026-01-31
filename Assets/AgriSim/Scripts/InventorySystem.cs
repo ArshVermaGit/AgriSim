@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using HappyHarvest;
+using AgriSim;
 using Template2DCommon;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -11,7 +11,7 @@ using UnityEditor;
 using UnityEditor.UIElements;
 #endif
 
-namespace HappyHarvest
+namespace AgriSim
 {
     /// <summary>
     /// Handle the player inventory. This is fixed size (9 right now)

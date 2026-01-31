@@ -3,9 +3,9 @@ guid: 6d3861b948b4e54479fa87426cd49897
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Environment/Bush/Sprites/Sprite_Bush.png
+  assetPath: Assets/AgriSim/Art/Environment/Bush/Sprites/Sprite_Bush.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

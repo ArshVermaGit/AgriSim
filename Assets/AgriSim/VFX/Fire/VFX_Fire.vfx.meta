@@ -8,7 +8,7 @@ VisualEffectImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/VFX/Fire/VFX_Fire.vfx
+  assetPath: Assets/AgriSim/VFX/Fire/VFX_Fire.vfx
   uploadId: 722366

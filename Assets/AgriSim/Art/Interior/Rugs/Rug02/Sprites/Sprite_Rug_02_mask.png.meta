@@ -3,9 +3,9 @@ guid: 218d8948f45a21241b724a9cccdb8b59
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Interior/Rugs/Rug02/Sprites/Sprite_Rug_02_mask.png
+  assetPath: Assets/AgriSim/Art/Interior/Rugs/Rug02/Sprites/Sprite_Rug_02_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

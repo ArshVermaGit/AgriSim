@@ -3,9 +3,9 @@ guid: 6a5fd1c16ba742d45be9ce461b866b55
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/Crops/Wheat/Sprites/Sprite_Wheat_02_mask.png
+  assetPath: Assets/AgriSim/Art/Crops/Wheat/Sprites/Sprite_Wheat_02_mask.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []

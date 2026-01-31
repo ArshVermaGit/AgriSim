@@ -3,9 +3,9 @@ guid: aa3245dc8307bf14793bcf10c94d4cde
 AssetOrigin:
   serializedVersion: 1
   productId: 259218
-  packageName: Happy Harvest - 2D Sample Project
+  packageName: AgriSim - 2D Farming Simulation
   packageVersion: 1.61
-  assetPath: Assets/HappyHarvest/Art/UI/Sprite_keyboard_key.png
+  assetPath: Assets/AgriSim/Art/UI/Sprite_keyboard_key.png
   uploadId: 722366
 TextureImporter:
   internalIDToNameTable: []
