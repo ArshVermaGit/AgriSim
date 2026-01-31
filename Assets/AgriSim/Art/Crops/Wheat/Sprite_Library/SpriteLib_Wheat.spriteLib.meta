@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b83fbc3ff5dfb134d88e31ed06df842f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: db2778f6d440c47ddacff25997d7c062, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Crops/Wheat/Sprite_Library/SpriteLib_Wheat.spriteLib
+  uploadId: 722366

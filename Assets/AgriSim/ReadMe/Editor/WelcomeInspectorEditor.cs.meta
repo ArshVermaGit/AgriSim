@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3173bdb61825a4465ab58bfe44f176fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_InspectorXML: {fileID: 9197481963319205126, guid: 8561c5dd225814424b3c99a48291a4a2,
+      type: 3}
+  - m_BlockTemplateXML: {fileID: 9197481963319205126, guid: 1149a4d732ad647778bf560dd9932a85,
+      type: 3}
+  - resourcesSO: {fileID: 11400000, guid: 11758c091c84d48bc98e50e158d02f54, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/ReadMe/Editor/WelcomeInspectorEditor.cs
+  uploadId: 722366

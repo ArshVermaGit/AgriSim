@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dde04bdb5ee6fdf4c97d49bb04a61cfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Scripts/CropInitializer.cs
+  uploadId: 722366

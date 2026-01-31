@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2782c7605fa8b97438f68c1636955f1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Materials/Material_HDR.mat
+  uploadId: 722366

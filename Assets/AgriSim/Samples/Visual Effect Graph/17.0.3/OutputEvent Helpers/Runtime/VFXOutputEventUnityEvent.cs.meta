@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dac7db9526df647b482243e410ffea3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Samples/Visual Effect Graph/17.0.3/OutputEvent Helpers/Runtime/VFXOutputEventUnityEvent.cs
+  uploadId: 722366

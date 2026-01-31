@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8968f816b0b445da941f88624e5f8e, type: 3}
+  m_Name: articleartgameplay
+  m_EditorClassIdentifier: 
+  title: Art and gameplay with 2D tilemaps
+  subTitle: This page provides information on how the Tilemap System is used in the
+    demo for gameplay
+  darkenBackground: 0
+  backgroundImage: {fileID: -6138855587912697520, guid: fc5b16f3021a4444e8932311cf90958b, type: 3}
+  resourceURL: https://unity.com/how-to/create-art-and-gameplay-2d-tilemaps-unity
+  blockSize: {x: 1, y: 1}

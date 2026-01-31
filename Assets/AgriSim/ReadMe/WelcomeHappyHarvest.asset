@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba996dca2067413a964944321325305, type: 3}
+  m_Name: WelcomeHappyHarvest
+  m_EditorClassIdentifier: 
+  windowTitle: 2D Sample - Happy Harvest
+  windowSubTitle: A vertical slice of a top-down 2D game with URP 2D
+  windowBanner: {fileID: 2800000, guid: 56906e7ffd6614bb28718c99d65323b0, type: 3}
+  introText: '<b>ABOUT</b><br>This 2D sample project, made by Unity, is a top-down
+    farming simulation game that showcases how you can combine the suite of 2D tools
+    and artwork to make your vision a reality. All of the content in the demo can
+    be added into your own creative projects, and you can also extend the demo itself
+    with your own systems, characters, collectables, and more.  We recommend that
+    you read the articles that accompany Happy Harvest. Each article focuses on a
+    key toolset used in the demo, providing further instructions so you can replicate
+    the effects in your own projects. '
+  infoBlock:
+  - {fileID: 11400000, guid: 2588996be5d1c49c8bcaeeb9f6d19b90, type: 2}
+  - {fileID: 11400000, guid: 3e4387223d8f0454aacdab2b3a04c331, type: 2}
+  - {fileID: 11400000, guid: f857acd72e22c4006a368b1a6621b82e, type: 2}
+  - {fileID: 11400000, guid: 4723498e741d1459da13d37c38be45bc, type: 2}
+  - {fileID: 11400000, guid: e97495bfc5fe04753a2efb01951bbfbb, type: 2}
+  - {fileID: 11400000, guid: 389334e0670d2480e8699340a28dc0dc, type: 2}
+  - {fileID: 11400000, guid: e609449dde9bb4c94a9a1e0a43720bc2, type: 2}
+  - {fileID: 11400000, guid: a0a24c2806fc649c792d47d05bf19607, type: 2}
+  - {fileID: 11400000, guid: dcbeb68e4086044e8a6107f0605b6f29, type: 2}
+  - {fileID: 11400000, guid: c7d51bdc8b887470cb96e4634fe95c2c, type: 2}
+  - {fileID: 11400000, guid: 1dd2be99a6afd4cbd9b9c0c25c09cddf, type: 2}
+  - {fileID: 11400000, guid: 1cb8b916a842b47079f043fcf2c20bce, type: 2}
+  - {fileID: 11400000, guid: db82d75edd16c409d804f2f00ad31211, type: 2}
+  - {fileID: 11400000, guid: b7c9d94810fd941c09df630faea9715b, type: 2}
+  - {fileID: 11400000, guid: 98acfc4f2a7bb45c2b020c6faad94cf0, type: 2}
+  - {fileID: 11400000, guid: 9ea555c01a8464b8cbcf96b8d0490258, type: 2}
+  - {fileID: 11400000, guid: be7f13c262e5a476b9973dea3b78f2f3, type: 2}
+  - {fileID: 11400000, guid: 9bb454634652741ee9c3b0d7c2954c46, type: 2}
+  - {fileID: 11400000, guid: 2531f6915308347e1891f10d73d5f7f9, type: 2}

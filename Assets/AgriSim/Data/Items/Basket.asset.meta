@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56e65a5b3c0576a4a9dda85af469bce9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Data/Items/Basket.asset
+  uploadId: 722366

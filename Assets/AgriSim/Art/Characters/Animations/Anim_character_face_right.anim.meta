@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a2aed16e9fbdc549af5fe520b2c79bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/Animations/Anim_character_face_right.anim
+  uploadId: 722366

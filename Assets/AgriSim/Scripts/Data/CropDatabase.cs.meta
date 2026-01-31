@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 852067794d5045469706236ecf536fa5
+timeCreated: 1674043748
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Scripts/Data/CropDatabase.cs
+  uploadId: 722366

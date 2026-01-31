@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8d24aa3b2fcc6f4d9bddba5a1e896b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/Prefab_character_base.prefab
+  uploadId: 722366

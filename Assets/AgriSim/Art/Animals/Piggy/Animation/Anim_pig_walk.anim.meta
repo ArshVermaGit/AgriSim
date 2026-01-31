@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb79c28ec61eaa441a5cf00e72bdd890
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Animals/Piggy/Animation/Anim_pig_walk.anim
+  uploadId: 722366

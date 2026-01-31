@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8968f816b0b445da941f88624e5f8e, type: 3}
+  m_Name: forumpost
+  m_EditorClassIdentifier: 
+  title: feedback and support
+  subTitle: You can share your feedback about Happy Harvest and the companion content
+    in the dedicated post.
+  darkenBackground: 0
+  backgroundImage: {fileID: 21300000, guid: df8c24fccc5958a4399921627716fff1, type: 3}
+  resourceURL: https://discussions.unity.com/t/new-urp-2d-sample-project-happy-harvest-download-now/922428
+  blockSize: {x: 1, y: 1}

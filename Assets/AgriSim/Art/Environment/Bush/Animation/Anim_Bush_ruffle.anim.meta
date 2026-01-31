@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1bcdf7b359f7c6c4ebaf6e8393a8bb1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Environment/Bush/Animation/Anim_Bush_ruffle.anim
+  uploadId: 722366

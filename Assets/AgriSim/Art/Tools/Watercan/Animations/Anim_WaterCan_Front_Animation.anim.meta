@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b5041d9bf732804cb321ff95f31315a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Watercan/Animations/Anim_WaterCan_Front_Animation.anim
+  uploadId: 722366

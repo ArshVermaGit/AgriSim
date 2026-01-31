@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ca623f2077c9114182f7b8f8c12f562
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Hoe/Animations/Anim_Tool_Hoe_Swing_side.anim
+  uploadId: 722366

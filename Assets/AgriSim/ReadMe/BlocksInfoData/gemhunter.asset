@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8968f816b0b445da941f88624e5f8e, type: 3}
+  m_Name: gemhunter
+  m_EditorClassIdentifier: 
+  title: Gem Hunter Match
+  subTitle: An official 2D sample that shows how to make static objects and casual
+    gameplay more visually appealing with 2D lighting in URP
+  darkenBackground: 0
+  backgroundImage: {fileID: 21300000, guid: 085ba5ee2f0164ca4ba30c5ce3aed937, type: 3}
+  resourceURL: https://assetstore.unity.com/packages/essentials/tutorial-projects/gem-hunter-match-2d-sample-project-278941?srsltid=AfmBOoqItfw7p4YTTuDZtnPvxFcHHCO8IabqnogaS1pL73ptR3TZfGJB
+  blockSize: {x: 2, y: 2}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f6b8f8fade48f64492add0e59a790df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Data/Items/CornSeedBag.asset
+  uploadId: 722366

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7c9d94810fd941c09df630faea9715b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/ReadMe/BlocksInfoData/techebooks.asset
+  uploadId: 722366

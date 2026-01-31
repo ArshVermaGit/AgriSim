@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8092ee89ddb94d24c8b81132784e10b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Animals/Cow/Animation/Anim_cow_idle.anim
+  uploadId: 722366

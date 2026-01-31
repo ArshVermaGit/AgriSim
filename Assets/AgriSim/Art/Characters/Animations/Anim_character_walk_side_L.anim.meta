@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71c05462b838c4a4ebf064f5823756d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/Animations/Anim_character_walk_side_L.anim
+  uploadId: 722366

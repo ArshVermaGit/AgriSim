@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fc97d24969dabd74cb4fc74ce2c11d37
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: db2778f6d440c47ddacff25997d7c062, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/SpriteLibrary/SpriteLib_PSD_character_boy2.spriteLib
+  uploadId: 722366

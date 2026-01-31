@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 944cba5a8e40a784e85b4f6a9c7a9203
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/Animations/Anim_character_picking_front.anim
+  uploadId: 722366

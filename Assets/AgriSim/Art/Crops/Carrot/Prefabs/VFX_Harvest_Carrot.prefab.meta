@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b22c0b7ba7feb1a4194738232d7a049d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Crops/Carrot/Prefabs/VFX_Harvest_Carrot.prefab
+  uploadId: 722366

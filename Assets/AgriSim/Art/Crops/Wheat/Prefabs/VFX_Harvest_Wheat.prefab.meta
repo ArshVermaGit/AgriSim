@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a893969ae0c685a4495c23af2f04fddf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Crops/Wheat/Prefabs/VFX_Harvest_Wheat.prefab
+  uploadId: 722366

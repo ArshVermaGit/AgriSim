@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ecee28b8e5a91342b650dee8ad9994e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Watercan/Animations/Anim_WaterCan_Side_Animation.anim
+  uploadId: 722366

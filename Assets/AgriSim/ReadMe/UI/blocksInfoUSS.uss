@@ -1,0 +1,7 @@
+#button-block-info:hover > #block-image {
+    scale: 2 2;
+    transition-duration: 1.5s;
+    rotate: 45deg;
+    -unity-background-image-tint-color: rgb(104, 164, 248);
+    transition-timing-function: ease-out;
+}

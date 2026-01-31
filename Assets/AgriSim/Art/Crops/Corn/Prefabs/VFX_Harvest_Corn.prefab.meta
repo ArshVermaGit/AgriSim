@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a550373057fc4b4a82ceb27907686ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Crops/Corn/Prefabs/VFX_Harvest_Corn.prefab
+  uploadId: 722366

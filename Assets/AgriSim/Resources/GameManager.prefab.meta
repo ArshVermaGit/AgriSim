@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e12dcd8fea4fef84eabbc2f42ffd1cc2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Resources/GameManager.prefab
+  uploadId: 722366

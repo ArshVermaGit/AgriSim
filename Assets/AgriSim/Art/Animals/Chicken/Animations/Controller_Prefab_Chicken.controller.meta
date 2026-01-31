@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e4ba3e79d5c5e844a1c2422c7e15230
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Animals/Chicken/Animations/Controller_Prefab_Chicken.controller
+  uploadId: 722366

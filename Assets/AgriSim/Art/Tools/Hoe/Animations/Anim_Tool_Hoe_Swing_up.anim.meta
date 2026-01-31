@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a50758c756a2d484cab92d838a8d307d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Hoe/Animations/Anim_Tool_Hoe_Swing_up.anim
+  uploadId: 722366

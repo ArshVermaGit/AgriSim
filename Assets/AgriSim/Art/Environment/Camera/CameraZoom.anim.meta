@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31204e463e49446718145d11f803d424
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Environment/Camera/CameraZoom.anim
+  uploadId: 722366

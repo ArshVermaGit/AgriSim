@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8968f816b0b445da941f88624e5f8e, type: 3}
+  m_Name: article2Danim
+  m_EditorClassIdentifier: 
+  title: 2D animation
+  subTitle: This article covers how the 2D Animation and PSD Importer packages are
+    used in the demo
+  darkenBackground: 0
+  backgroundImage: {fileID: 4852572874198145552, guid: ffd6ba8a0f7784ea6b2172f4849e59ad, type: 3}
+  resourceURL: https://unity.com/how-to/2d-characters-and-animation-unity-2022-lts
+  blockSize: {x: 1, y: 1}

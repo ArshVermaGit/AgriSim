@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c57890ef93fcac5418c851f4ff8b5dc5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tiles/Walkway/Tiles/RuleTile_Walkway.asset
+  uploadId: 722366

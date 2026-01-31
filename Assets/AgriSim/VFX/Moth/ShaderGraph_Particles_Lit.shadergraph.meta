@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 336041b1315a09e47a73001c639221dc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/VFX/Moth/ShaderGraph_Particles_Lit.shadergraph
+  uploadId: 722366

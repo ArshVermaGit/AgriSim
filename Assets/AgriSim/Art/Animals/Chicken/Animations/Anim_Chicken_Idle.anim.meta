@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 930e778e4da7c5248a3f60c60d2ecd09
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Animals/Chicken/Animations/Anim_Chicken_Idle.anim
+  uploadId: 722366

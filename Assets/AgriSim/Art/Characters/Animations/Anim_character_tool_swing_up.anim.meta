@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f36b39e8a45cb15449bdc1d858b97056
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Characters/Animations/Anim_character_tool_swing_up.anim
+  uploadId: 722366

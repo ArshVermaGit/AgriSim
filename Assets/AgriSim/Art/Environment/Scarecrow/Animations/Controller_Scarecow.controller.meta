@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb0c88b0a4404d248b31f8fc9970d28f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Environment/Scarecrow/Animations/Controller_Scarecow.controller
+  uploadId: 722366

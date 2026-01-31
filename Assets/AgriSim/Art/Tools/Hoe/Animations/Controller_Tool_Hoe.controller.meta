@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3458bc1715e9f9045b258b8839fc5014
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Hoe/Animations/Controller_Tool_Hoe.controller
+  uploadId: 722366

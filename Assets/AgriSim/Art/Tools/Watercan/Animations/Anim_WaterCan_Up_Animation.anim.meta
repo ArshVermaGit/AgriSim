@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2847f6e2a9adc94b936f154efce1198
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Tools/Watercan/Animations/Anim_WaterCan_Up_Animation.anim
+  uploadId: 722366

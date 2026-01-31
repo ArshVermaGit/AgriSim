@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72b266502ac60954884e0f65fdd979a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259218
+  packageName: Happy Harvest - 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/HappyHarvest/Art/Animals/Chicken/Animations/Anim_Chicken_Run.anim
+  uploadId: 722366
