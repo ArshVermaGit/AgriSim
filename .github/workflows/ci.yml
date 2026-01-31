@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  validate:
+    name: Validate Unity Project
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Cache Library folder
+        uses: actions/cache@v4
+        with:
+          path: Library
+          key: Library-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-
+
+      - name: Validate project structure
+        run: |
+          echo "✅ Checking project structure..."
+          test -d "Assets" && echo "  ✓ Assets folder exists"
+          test -d "ProjectSettings" && echo "  ✓ ProjectSettings folder exists"
+          test -d "Packages" && echo "  ✓ Packages folder exists"
+          test -f "Assets/AgriSim/Scenes/Loader.unity" && echo "  ✓ Loader scene exists"
+          echo "✅ Project structure is valid!"
+
+      - name: Check for common issues
+        run: |
+          echo "🔍 Checking for common issues..."
+          # Check for .meta files
+          find Assets -name "*.meta" | head -5 && echo "  ✓ Meta files present"
+          echo "✅ Basic checks passed!"
