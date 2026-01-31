@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 49197982c263c4641829843d19fe8ca8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -884,7 +884,7 @@ PlayerSettings:
   cloudProjectId: d31b700c-0ce4-4f48-97da-57c49bca4dc1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: AgriSim
   organizationId: unity_3e7392008ade786f719c
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
