@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/AgriSim/Art/UI/Sprite_HappyHarvest_logo.png" alt="AgriSim Logo" width="600"/>
+<img src="Assets/AgriSim/Art/UI/Sprite_AgriSim_logo.png" alt="AgriSim Logo" width="600"/>
 
 # 🌾 AgriSim 🚜
 
