@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Renamed project from "Happy Harvest" to "AgriSim"
+- Updated project branding and namespace to "AgriSim"
 - Updated namespace from `HappyHarvest` to `AgriSim`
 
 ### Fixed
