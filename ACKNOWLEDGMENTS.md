@@ -4,7 +4,7 @@ AgriSim would not be possible without the following amazing resources and people
 
 ## 🎮 Unity Technologies
 
-This project is built upon **Unity's Happy Harvest 2D Sample Project**, showcasing:
+This project is built using **Unity's 2D Sample Project**, showcasing:
 
 - Universal Render Pipeline (URP) 2D
 - 2D Lighting and Shadows
@@ -13,15 +13,6 @@ This project is built upon **Unity's Happy Harvest 2D Sample Project**, showcasi
 - Input System
 
 **Thank you, Unity, for providing this incredible learning resource!**
-
-## 🎨 Art & Assets
-
-| Asset             | Source               | License                |
-| ----------------- | -------------------- | ---------------------- |
-| Character Sprites | Happy Harvest Sample | Unity Asset Store EULA |
-| Crop Sprites      | Happy Harvest Sample | Unity Asset Store EULA |
-| Environment Tiles | Happy Harvest Sample | Unity Asset Store EULA |
-| UI Elements       | Happy Harvest Sample | Unity Asset Store EULA |
 
 ## 🔤 Fonts
 
