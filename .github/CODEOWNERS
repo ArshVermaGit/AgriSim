@@ -1,0 +1,18 @@
+# Code Owners for AgriSim
+# These owners will be requested for review when someone opens a pull request.
+
+# Default owners for everything in the repo
+* @ArshVermaGit @madhav0819-commits @SarvaShresth_19 @sidddeshmukh6667 @Swastik2004
+
+# Unity Assets
+/Assets/ @ArshVermaGit @madhav0819-commits @SarvaShresth_19 @sidddeshmukh6667 @Swastik2004
+
+# Scripts
+/Assets/AgriSim/Scripts/ @ArshVermaGit @madhav0819-commits @SarvaShresth_19 @sidddeshmukh6667 @Swastik2004
+
+# Documentation
+*.md @ArshVermaGit
+/docs/ @ArshVermaGit
+
+# GitHub Actions workflows
+/.github/ @ArshVermaGit
