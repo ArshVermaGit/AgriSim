@@ -93,7 +93,7 @@ Master the tools of the trade with these intuitive controls.
 
 ## 🏆 Credits
 
-This project is built upon the **Happy Harvest** 2D Sample by Unity Technologies, showcasing the capabilities of the Universal Render Pipeline (URP) and 2D lighting.
+This project is built upon **Unity's 2D Sample Project**, showcasing the capabilities of the Universal Render Pipeline (URP) and 2D lighting.
 
 ---
 
