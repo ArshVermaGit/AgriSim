@@ -1,54 +1,111 @@
-# AgriSim
+<div align="center">
 
-AgriSim is a 2D farming simulation game built with Unity. It features a robust set of systems including a day/night cycle, weather effects, inventory management, and farming mechanics.
+<img src="Assets/AgriSim/Art/UI/Sprite_HappyHarvest_logo.png" alt="AgriSim Logo" width="600"/>
 
-## Features
+# 🌾 AgriSim 🚜
 
-- **Farming System**: Cultivate your land! Use tools to till soil, plant crops, water them, and harvest the produce.
-- **Day/Night Cycle**: A fully dynamic time system that affects lighting and shadows. Watch the sun rise and set as you work on your farm.
-- **Weather System**: Dynamic weather patterns including Sunny, Rainy, and Thunderstorm conditions that interact with the game world.
-- **Inventory Management**: A smart inventory system that supports item stacking, equipping tools, and managing resources.
-- **Economy**: Buy seeds and tools, and sell your harvested crops at the market stall to earn coins.
-- **Save & Load**: Persistent game state allows you to save your progress (F5) and load it back (F9) at any time.
-- **Scene Transitions**: Seamless transitions between outdoor farm areas and indoor environments.
+**The Ultimate 2D Farming Simulation Experience**
 
-## Controls
+[![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity)](https://unity.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Playable-blue?style=for-the-badge)](https://github.com/ArshVermaGit/AgriSim)
 
-### Keyboard & Mouse
+**Cultivate. Harvest. Thrive.**
+Dive into a living, breathing world where every day brings new challenges and bountiful rewards.
 
-- **Move**: `W`, `A`, `S`, `D` or Arrow Keys
-- **Sprint**: `Left Shift`
-- **Interact**: `E`
-- **Use Tool / Action**: `Space` or `Left Mouse Click`
-- **Next Item**: `2`
-- **Previous Item**: `1`
-- **Save Game**: `F5`
-- **Load Game**: `F9`
+</div>
 
-### Gamepad
+---
 
-- **Move**: Left Stick / D-Pad
-- **Look**: Right Stick
-- **Interact**: North Button (Y/Triangle)
-- **Use Tool / Action**: South Button (A/Cross)
-- **Next Item**: D-Pad Right
-- **Previous Item**: D-Pad Left
-- **Sprint**: Left Stick Press
+## 🎮 Game Overview
 
-## Getting Started
+AgriSim isn't just a farming game; it's a **living ecosystem**. Built with the power of Unity's 2D Tech Stack, it features dynamic lighting, reactive weather, and a responsive world that evolves as you play. Whether you're tending to your crops under the scorching sun or taking shelter during a thunderstorm, AgriSim delivers a cozy yet deep simulation experience.
 
-1. **Open the Project**: Open the `AgriSim` folder in Unity Hub (Recommended Version 2022.3 or later).
-2. **Load the Scene**: Navigate to `Assets/AgriSim/Scenes` and open **MainMenu** or **Loader**.
-3. **Play**: Hit the Play button in the Unity Editor to start your farming adventure.
+---
 
-## Project Structure
+## ✨ Features
 
-- **GameManager**: Central coordinator for time, weather, and global state.
-- **PlayerController**: Handles player movement, input, and interaction logic.
-- **InventorySystem**: Manages player items and equipment.
-- **DayCycleHandler**: Controls the visual progression of the day, including lighting and shadows.
-- **TerrainManager**: Manages the tile-based farming interactions.
+<div align="center">
+  <img src="Assets/AgriSim/ReadMe/Images/tilemaparticle.png" alt="Farming Mechanics" width="80%"/>
+</div>
 
-## Credits
+### 🌻 Deep Farming Mechanics
 
-Based on the _Happy Harvest_ 2D Sample project by Unity Technologies.
+Transform your land from a barren wasteland into a lush paradise.
+
+- **Micro-Management**: Till soil, plant seeds, water crops, and harvest produce.
+- **Dynamic Growth**: Crops react to care and environmental conditions.
+
+<div align="center">
+  <img src="Assets/AgriSim/ReadMe/Images/2dlightarticle.png" alt="Day Night Cycle" width="80%"/>
+</div>
+
+### 🌗 Dynamic Day/Night Cycle
+
+Time flows seamlessly. Watch as 2D dynamic shadows stretch across your fields at sunset and lights flicker on as dusk approaches.
+
+- <img src="Assets/AgriSim/Art/UI/Sprite_clock_icon.png" width="20"/> **Real-time Day Cycle**: Manage your time wisely from dawn till dusk.
+- **Atmospheric Lighting**: Beautiful lighting transitions set the mood for every hour.
+
+<div align="center">
+  <img src="Assets/AgriSim/ReadMe/Images/vfxarticle.png" alt="Weather and VFX" width="80%"/>
+</div>
+
+### ⛈️ Reactive Weather System
+
+The sky is alive! From gentle showers to roaring thunderstorms, weather dramatically impacts gameplay.
+
+- **Visual Fidelity**: Particle systems create immersive rain and storm effects.
+- **Gameplay Impact**: Rain waters your crops for you—use it to your advantage!
+
+### 💰 Economy & Inventory
+
+- <img src="Assets/AgriSim/Art/UI/Sprite_coin_icon.png" width="20"/> **Marketplace**: Sell your hard-earned harvest for coins.
+- **Smart Inventory**: Stack items, equip tools, and manage your resources on the go.
+
+---
+
+## 🕹️ Controls
+
+Master the tools of the trade with these intuitive controls.
+
+| Action          |  Keyboard & Mouse   |                                      Gamepad                                      |
+| :-------------- | :-----------------: | :-------------------------------------------------------------------------------: |
+| **Move**        |   `W` `A` `S` `D`   |                                    Left Stick                                     |
+| **Interact**    |         `E`         | <img src="Assets/AgriSim/Art/UI/Sprite_Button_green.png" width="20"/> North (Y/△) |
+| **Use Tool**    | `Space` / `L-Click` | <img src="Assets/AgriSim/Art/UI/Sprite_Button_Blue.png" width="20"/> South (A/X)  |
+| **Sprint**      |       `Shift`       |                                   L-Stick Click                                   |
+| **Cycle Items** |      `1` / `2`      |                                D-Pad Left / Right                                 |
+| **Save / Load** |     `F5` / `F9`     |                                         -                                         |
+
+---
+
+## 🚀 Getting Started
+
+1.  **Clone the Repo**:
+    ```sh
+    git clone https://github.com/ArshVermaGit/AgriSim.git
+    ```
+2.  **Open in Unity**: Launch Unity Hub and add the project (Recommendation: Unity 2022.3 LTS).
+3.  **Play**: Open `Assets/AgriSim/Scenes/Loader.unity` and hit **Play**!
+
+---
+
+## 🏆 Credits
+
+This project is built upon the **Happy Harvest** 2D Sample by Unity Technologies, showcasing the capabilities of the Universal Render Pipeline (URP) and 2D lighting.
+
+---
+
+## 📱 Connect with Me
+
+I'd love to hear your feedback or discuss potential collaborations!
+
+<div align="center">
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ArshVermaGit)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arshvermadev/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/TheArshVerma)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arshverma.dev@gmail.com)
+
+</div>
