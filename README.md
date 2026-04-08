@@ -96,16 +96,3 @@ Master the tools of the trade with these intuitive controls.
 This project is built upon **Unity's 2D Sample Project**, showcasing the capabilities of the Universal Render Pipeline (URP) and 2D lighting.
 
 ---
-
-## 📱 Connect with Me
-
-I'd love to hear your feedback or discuss potential collaborations!
-
-<div align="center">
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ArshVermaGit)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arshvermadev/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/TheArshVerma)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arshverma.dev@gmail.com)
-
-</div>
