@@ -12,7 +12,7 @@ namespace AgriSim
     /// </summary>
     public class Loader : MonoBehaviour
     {
-        public int TargetScene = 3;
+        public int TargetScene = 2;
         
         private void Start()
         {
